@@ -1,1 +1,28 @@
-# te amo 💖
+html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Te Amo 💖</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #fbd3e9, #bb377d);
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Te Amo ❤️</h1>
+  <p>Eres lo mejor que me ha pasado</p>
+</body>
+</html>
